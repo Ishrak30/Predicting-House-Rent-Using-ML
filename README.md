@@ -26,3 +26,13 @@ In this Dataset, we have information on almost 4700+ Houses/Apartments/Flats Ava
 <br />
 
 <h4>**The dataset has been changed to my content that has been shown here. Original Dataset is in this link: https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset?datasetId=2355600&sortBy=dateCreated </h4>
+
+<br />
+
+<h2> Models Used: </h2>
+<h3> 1. Linear Regression </h3>
+<h3> 2. Random Forest </h3>
+<h3> 3. Decision Tree </h3>
+<h3> 4. Lasso Regression </h3>
+<h3> 5. Ridge Regression </h3>
+
